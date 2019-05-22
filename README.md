@@ -40,4 +40,4 @@
 
 마이페이지 기능(나우엽)  https://docs.google.com/presentation/d/141tIrqu8UU9U3_LFw6NkgY4j7QVYKjKKCTAtEcYCZpA/edit#slide=id.p1
 
-발표자료(최종)(박현태) https://github.com/kjh4295233/-8-
+발표자료(최종)(박현태) https://docs.google.com/presentation/d/1SW54snH7DzIKf1hj89yLzvGVGukZhk01su8559APlkU/edit?usp=sharing
