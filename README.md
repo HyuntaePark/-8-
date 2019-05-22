@@ -21,7 +21,11 @@
 비밀번호 찾기(박서현) https://drive.google.com/file/d/1-8P2JkCnHdPtLxisVZTKUPA-pPfJW6IJ/view?usp=sharing
 
 우측, 상단(박서현) https://drive.google.com/file/d/1m1bAAfySk7dgqlowUUfa1Gt72-CTmfk_/view?usp=sharing
-작성UI최종 (박현태) https://docs.google.com/presentation/d/1hNNUC1ZHcdOcXXhS7tiYeuvK_p1SOwUj0Goitmweyos/edit?usp=sharing
-출판UI최종 (박현태) https://docs.google.com/presentation/d/1Il4TRgNSs7iAsTmr-Oe7_AmYpcBBKcRqNgCid7ryryc/edit?usp=sharing
-사이트소개&이용수칙(박현태)https://docs.google.com/presentation/d/1ZtgYzoDuS4g5sLt2ZcguTDIMWJty0sqq5luQyVwt0Cw/edit?usp=sharing
 
+작성UI최종 (박현태) https://docs.google.com/presentation/d/1hNNUC1ZHcdOcXXhS7tiYeuvK_p1SOwUj0Goitmweyos/edit?usp=sharing
+
+출판UI최종 (박현태) https://docs.google.com/presentation/d/1Il4TRgNSs7iAsTmr-Oe7_AmYpcBBKcRqNgCid7ryryc/edit?usp=sharing
+
+사이트소개&이용수칙(박현태) https://docs.google.com/presentation/d/1ZtgYzoDuS4g5sLt2ZcguTDIMWJty0sqq5luQyVwt0Cw/edit?usp=sharing
+
+알림, 검색창, 결과화면 (김지환) https://docs.google.com/presentation/d/1vQFRt6v7CEbDpqZ7M5iSqi930tOGR4SdFMHHP3t8qXg/edit#slide=id.p1
