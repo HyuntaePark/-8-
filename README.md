@@ -35,3 +35,5 @@
 비밀번호 찾기 스토리보드(박서현) https://drive.google.com/file/d/1LiPAU33wyeSPRvaqAE538qoJlitNMnLc/view?usp=sharing
 
 우측, 상단 스토리보드(박서현) https://drive.google.com/file/d/1bk8SWcypg_ES9oLx7Ot81xgBLTrQp5Yy/view?usp=sharing
+
+회원가입, 메인 페이지, 댓글 기능(임지수) https://drive.google.com/drive/folders/1R-9ledTP6oU6baB4Ol8ZY9Nobsa2iz2N
