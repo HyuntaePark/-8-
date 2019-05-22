@@ -38,4 +38,4 @@
 
 회원가입, 메인 페이지, 댓글 기능(임지수) https://drive.google.com/drive/folders/1R-9ledTP6oU6baB4Ol8ZY9Nobsa2iz2N
 
-마이페이지 기능(나우엽)  https://docs.google.com/presentation/d/1u6IeEDbOKAy-uy3EBnAa2BqFPMTd3k0xTZZ06sWlqkE/edit
+마이페이지 기능(나우엽)  https://docs.google.com/presentation/d/141tIrqu8UU9U3_LFw6NkgY4j7QVYKjKKCTAtEcYCZpA/edit#slide=id.p1
