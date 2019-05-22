@@ -29,3 +29,9 @@
 사이트소개&이용수칙(박현태) https://docs.google.com/presentation/d/1ZtgYzoDuS4g5sLt2ZcguTDIMWJty0sqq5luQyVwt0Cw/edit?usp=sharing
 
 알림, 검색창, 결과화면 (김지환) https://docs.google.com/presentation/d/1vQFRt6v7CEbDpqZ7M5iSqi930tOGR4SdFMHHP3t8qXg/edit#slide=id.p1
+
+메세지 스토리보드(박서현) https://drive.google.com/file/d/108U9q5y_7cWYm-h8CrJxCniJrVqreHbY/view?usp=sharing
+
+비밀번호 찾기 스토리보드(박서현) https://drive.google.com/file/d/1LiPAU33wyeSPRvaqAE538qoJlitNMnLc/view?usp=sharing
+
+우측, 상단 스토리보드(박서현) https://drive.google.com/file/d/1bk8SWcypg_ES9oLx7Ot81xgBLTrQp5Yy/view?usp=sharing
