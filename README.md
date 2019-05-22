@@ -12,7 +12,7 @@
 
 작성 UI(박현태) https://docs.google.com/presentation/d/1fSzV9ajtP0mnb6hq1Eni-TPBbRM5YwcY1jbS0rDrp_g/edit?usp=sharing
 
-마이페이지 ui  https://github.com/HyuntaePark/-8-.git
+마이페이지 ui(나우엽)  https://github.com/HyuntaePark/-8-.git
 
 출판 UI(박현태) https://docs.google.com/presentation/d/17T5xvkhk_QngnVc8IZ93sDw-Isi5ahD8oKnqv6pGrK0/edit?usp=sharing
 
@@ -37,3 +37,5 @@
 우측, 상단 스토리보드(박서현) https://drive.google.com/file/d/1bk8SWcypg_ES9oLx7Ot81xgBLTrQp5Yy/view?usp=sharing
 
 회원가입, 메인 페이지, 댓글 기능(임지수) https://drive.google.com/drive/folders/1R-9ledTP6oU6baB4Ol8ZY9Nobsa2iz2N
+
+마이페이지 기능(나우엽)  https://docs.google.com/presentation/d/1u6IeEDbOKAy-uy3EBnAa2BqFPMTd3k0xTZZ06sWlqkE/edit
