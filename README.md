@@ -42,8 +42,8 @@ UI 스토리보드
 
 |  기능 |  UI |
 |:--------|:--------:|
-| 로그인 및 회원가입, 비밀번호 재설정 화면| <center>cell 1x2 </center> |
-|메인페이지 좌측 화면| <center>cell 2x2 </center> |
-|메인페이지 우측 화면| <center>cell 3x2 </center> |
-|검색, 상단 기능 화면1| <center>cell 3x2 </center> |
-|검색, 상단 기능 화면2| <center>cell 3x2 </center> |
+|<center> 로그인 및 회원가입, 비밀번호 재설정 화면 </center> | <center> UI </center> |
+| <center>메인페이지 좌측 화면 </center> | <center> UI </center> |
+| <center>메인페이지 우측 화면 </center> | <center> UI </center> |
+| <center>검색, 상단 기능 화면1 </center> | <center> UI </center> |
+| <center>검색, 상단 기능 화면2 </center> | <center> UI </center> |
