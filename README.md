@@ -36,7 +36,7 @@ Collaboratory의 주요 기능
 |  기능 |  UI |
 |:--------|:--------:|
 |<center> 로그인 및 회원가입, 비밀번호 재설정 화면 </center> | <center> [UI](https://drive.google.com/file/d/1NKWn8B2xG6UzI-SOPn3ezsS7tVsuHe4m/view?usp=sharing) </center> |
-| <center>메인페이지 좌측 화면 </center> | <center> UI </center> |
-| <center>메인페이지 우측 화면 </center> | <center> UI </center> |
-| <center>검색, 상단 기능 화면1 </center> | <center> UI </center> |
-| <center>검색, 상단 기능 화면2 </center> | <center> UI </center> |
+| <center>메인페이지 좌측 화면 </center> | <center> [UI](https://drive.google.com/file/d/145JDdgpoHFzIbx_P0bfo3hncMgh_jixG/view?usp=sharing) </center> |
+| <center>메인페이지 우측 화면 </center> | <center> [UI](https://drive.google.com/file/d/1M0w69Ub77RPcIho5p7lEd-wgi4n-2Jpb/view?usp=sharing) </center> |
+| <center>검색, 상단 기능 화면1 </center> | <center> [UI](https://drive.google.com/file/d/1_l26i0HGVUUpvSGFERf_kPaqLmS9okTV/view?usp=sharing) </center> |
+| <center>검색, 상단 기능 화면2 </center> | <center> [UI](https://drive.google.com/file/d/1E9QPwWn5XhrDCsxh1XKCZOhYILvEmoad/view?usp=sharing) </center> |
