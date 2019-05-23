@@ -25,6 +25,8 @@ Collaboratory의 주요 기능
 
 1차발표 ppt
 
+2차발표 ppt 
+
 
 UI 스토리보드
 
