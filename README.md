@@ -1,47 +1,23 @@
-# 시분설 8조
+Collaboratory
 
-(스토리보드) https://app.cardboardit.com/maps/70845?show_tour=true&tour_type=basic
+프로젝트 참여자
+- 201433268 박현태
+- 201738430 임지수
+- 201834710 김지환
+- 201834712 나우엽
+- 201834713 박서현
 
-(발표 ppt) https://docs.google.com/presentation/d/1RHEntUGfO36j4cWJtpOIUqHNRfFMQTrVg_RlkFWOEUM/edit#slide=id.p1
+이름: Collaboratory
+Collaborate와 Laboratory를 결합하여 만든 이름.
 
-(1차 UI) https://docs.google.com/presentation/d/16mObX8MBc-GgF1Yr99rIAI4ggYIPQaBmgmaZPZ07_p8/edit?usp=sharing
+Collaboratory의 주요 기능
+1. Collaboratory는 오픈 액세스 시스템을 지원하여 모든 사용자가 자신의 연구 및 논문을 자유롭게 게시할 수 있고, 다른 사용자의 게시물에 무료로 접근할 수 있습니다. 단, 모든 데이터는 서버 내에 저장이 되며 삭제가 불가능합니다.
+    - Green OA : 게시물은 출판물로 인정될 수 없지만 서버 내 레포지토리에 보관이 되고, 저작권 또한 사이트에 있다.
+    - Gold OA : 게시물은 출판물로 인정이 되며 게시물에 대한 모든 권한과 저작권은 게시자에게 주어집니다. Green 게시물을 출판 신청한 후, 사이트 내 자격요건에 부합하여 심사에 통과되면 Gold 게시판으로 이동된다.
 
-(2차 UI) https://docs.google.com/presentation/d/16mObX8MBc-GgF1Yr99rIAI4ggYIPQaBmgmaZPZ07_p8/edit?ts=5cdceacd
+2. Green에서 Gold로 게시물을 출판하는 과정에서 논문처리비용이 발생하는데, 이는 100% 리뷰어
+들에게 분배됩니다. 보상 지급 대상 리뷰어는 게시자가 직접 선정하고, 얼마의 금액을 보상할지 또한 게시자의 권한이 됩니다. 이러한 보상 지급으로 기존 시장이 갖고 있던 중앙집권화에서 벗어나기를 희망합니다.
 
-(알림, 검색 UI -스토리보드X-김지환) https://docs.google.com/presentation/d/10Ss1J_7VjsSnO34yVZ7pvqZVAaYJ6tXuZhwf3UM5e6g/edit#slide=id.p4
-
-작성 UI(박현태) https://docs.google.com/presentation/d/1fSzV9ajtP0mnb6hq1Eni-TPBbRM5YwcY1jbS0rDrp_g/edit?usp=sharing
-
-마이페이지 ui(나우엽)  https://github.com/HyuntaePark/-8-.git
-
-출판 UI(박현태) https://docs.google.com/presentation/d/17T5xvkhk_QngnVc8IZ93sDw-Isi5ahD8oKnqv6pGrK0/edit?usp=sharing
-
-메세지 미완성(박서현) https://drive.google.com/file/d/1m8FniFEr9sZVuqPS9yXrpusxEpYion9K/view?usp=sharing
-
-비밀번호 찾기(박서현) https://drive.google.com/file/d/1-8P2JkCnHdPtLxisVZTKUPA-pPfJW6IJ/view?usp=sharing
-
-우측, 상단(박서현) https://drive.google.com/file/d/1m1bAAfySk7dgqlowUUfa1Gt72-CTmfk_/view?usp=sharing
-
-작성UI최종 (박현태) https://docs.google.com/presentation/d/1hNNUC1ZHcdOcXXhS7tiYeuvK_p1SOwUj0Goitmweyos/edit?usp=sharing
-
-출판UI최종 (박현태) https://docs.google.com/presentation/d/1Il4TRgNSs7iAsTmr-Oe7_AmYpcBBKcRqNgCid7ryryc/edit?usp=sharing
-
-사이트소개&이용수칙(박현태) https://docs.google.com/presentation/d/1ZtgYzoDuS4g5sLt2ZcguTDIMWJty0sqq5luQyVwt0Cw/edit?usp=sharing
-
-알림, 검색창, 결과화면 (김지환) https://docs.google.com/presentation/d/1vQFRt6v7CEbDpqZ7M5iSqi930tOGR4SdFMHHP3t8qXg/edit#slide=id.p1
-
-메세지 스토리보드(박서현) https://drive.google.com/file/d/108U9q5y_7cWYm-h8CrJxCniJrVqreHbY/view?usp=sharing
-
-비밀번호 찾기 스토리보드(박서현) https://drive.google.com/file/d/1LiPAU33wyeSPRvaqAE538qoJlitNMnLc/view?usp=sharing
-
-우측, 상단 스토리보드(박서현) https://drive.google.com/file/d/1bk8SWcypg_ES9oLx7Ot81xgBLTrQp5Yy/view?usp=sharing
-
-회원가입, 메인 페이지, 댓글 기능(임지수) https://drive.google.com/drive/folders/1R-9ledTP6oU6baB4Ol8ZY9Nobsa2iz2N
-
-마이페이지 기능(나우엽) https://docs.google.com/presentation/d/16oWJ4FOdpc7jv7GWj9Ri4oLUNrNrJlgot3137ZhpfZY/edit#slide=id.p2 
-
-발표자료(최종)(박현태) https://docs.google.com/presentation/d/1SW54snH7DzIKf1hj89yLzvGVGukZhk01su8559APlkU/edit?usp=sharing
-
-문서자료(최종)https://docs.google.com/presentation/d/1XpB5M6pm0Xlf2WiJtE66zGJgWrQX-JX_6yCcSpAGJB0/edit
-
-하이퍼링크 실험 
+  활동 이력에 대한 공로 인정은 팔로워 수와 게시물에 대한 추천 수, 공유 횟수, 인용 횟수, 리
+뷰에 대한 추천 수로 점수가 매겨지며 이 점수는 곧 사이트에서의 레벨로 연결이 됩니다. 레벨이 높을수록 사이트 내에서 영향력이 높은 사람으로 인정받을 수 있습니다.
+UI 스토리보드
