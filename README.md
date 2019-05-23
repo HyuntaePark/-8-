@@ -34,7 +34,7 @@ Collaboratory의 주요 기능
 | <center> 2차 발표 </center> | <center> [2차발표 ppt](https://docs.google.com/presentation/d/1SW54snH7DzIKf1hj89yLzvGVGukZhk01su8559APlkU/edit?usp=sharing) </center> |
 
 
-[UI 스토리보드]
+UI 스토리보드
 --------------------------------
 |  기능 |  UI |
 |:--------|:--------:|
