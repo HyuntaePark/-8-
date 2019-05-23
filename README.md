@@ -23,6 +23,8 @@ Collaboratory의 주요 기능
 
 활동 이력에 대한 공로 인정은 팔로워 수와 게시물에 대한 추천 수, 공유 횟수, 인용 횟수, 리뷰에 대한 추천 수로 점수가 매겨지며 이 점수는 곧 사이트에서의 레벨로 연결이 됩니다. 레벨이 높을수록 사이트 내에서 영향력이 높은 사람으로 인정받을 수 있습니다.
 
+발표ppt
+
 |  발표 |  ppt |
 |:--------|:--------:|
 |<center> 1차 발표 </center> | <center> [1차발표 ppt](https://docs.google.com/presentation/d/1RHEntUGfO36j4cWJtpOIUqHNRfFMQTrVg_RlkFWOEUM/edit#slide=id.p1) </center> |
@@ -33,7 +35,7 @@ Collaboratory의 주요 기능
 
 |  기능 |  UI |
 |:--------|:--------:|
-|<center> 로그인 및 회원가입, 비밀번호 재설정 화면 </center> | <center> UI </center> |
+|<center> 로그인 및 회원가입, 비밀번호 재설정 화면 </center> | <center> [UI](https://drive.google.com/file/d/1NKWn8B2xG6UzI-SOPn3ezsS7tVsuHe4m/view?usp=sharing) </center> |
 | <center>메인페이지 좌측 화면 </center> | <center> UI </center> |
 | <center>메인페이지 우측 화면 </center> | <center> UI </center> |
 | <center>검색, 상단 기능 화면1 </center> | <center> UI </center> |
