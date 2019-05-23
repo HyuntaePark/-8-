@@ -25,7 +25,7 @@ Collaboratory의 주요 기능
 
 [1차발표 ppt](https://docs.google.com/presentation/d/1RHEntUGfO36j4cWJtpOIUqHNRfFMQTrVg_RlkFWOEUM/edit#slide=id.p1)
 
-2차발표 ppt 
+[2차발표 ppt](https://docs.google.com/presentation/d/1SW54snH7DzIKf1hj89yLzvGVGukZhk01su8559APlkU/edit?usp=sharing) 
 
 
 UI 스토리보드
@@ -39,3 +39,9 @@ UI 스토리보드
 검색, 상단 기능 화면1 (검색창, 작성, 알림 메시지)
 
 검색, 상단 기능 화면2 (마이페이지& 출판) 
+
+|  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
+|:--------|:--------:|--------:|
+|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
+|**cell 2x1** | <center>cell 2x2 </center> |*cell 2x3* |
+|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
