@@ -43,3 +43,10 @@ UI 스토리보드
 | <center>메인페이지 우측 화면 </center> | <center> [UI](https://drive.google.com/file/d/1M0w69Ub77RPcIho5p7lEd-wgi4n-2Jpb/view?usp=sharing) </center> |
 | <center>검색, 상단 기능 화면1 </center> | <center> [UI](https://drive.google.com/file/d/1_l26i0HGVUUpvSGFERf_kPaqLmS9okTV/view?usp=sharing) </center> |
 | <center>검색, 상단 기능 화면2 </center> | <center> [UI](https://drive.google.com/file/d/1E9QPwWn5XhrDCsxh1XKCZOhYILvEmoad/view?usp=sharing) </center> |
+
+
+DB
+--------------------------------
+[ERD](https://www.lucidchart.com/documents/edit/90f652fa-0c8d-490c-8b86-e813d158a652/0?shared=true&)
+
+
